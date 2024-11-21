@@ -3,7 +3,7 @@ Hi there, I'm Guilherme
 
 - 🔭 I’m currently working on a card game engine, that aims to be the equivalent of Stockfish for a german card game called Skat.
 - 🌱 In the meanwhile I’m learning Rust programming
-- 📫 How to reach me: [guilhermefgs@proton.me](mailto:guilhermefgs@proton.me) or [/guilhermefgs](https://www.linkedin.com/in/guilhermefgs/) on LinkedIn
+- 📫 How to reach me: [guilhermefgs@proton.me](mailto:guilhermefgs@proton.me) or [guilhermefgs](https://www.linkedin.com/in/guilhermefgs/) on LinkedIn
 ---
 
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermefgs&theme=nord_dark)
