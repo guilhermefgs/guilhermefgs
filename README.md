@@ -1,6 +1,14 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aateg&theme=graywhite)](https://github.com/aateg)
 
-![aateg's github stats](https://github-readme-stats.vercel.app/api?username=aateg&count_private=true&show_icons=true&hide=contribs&theme=graywhite)
+Hi there, I'm Guilherme
+
+- 🔭 I’m currently working on a card game engine, that aims to be the equivalent of Stockfish for a german card game called Skat.
+- 🌱 In the meanwhile I’m learning Rust programming
+- 📫 How to reach me: [guilhermefgs@proton.me](mailto:guilhermefgs@proton.me) or [/guilhermefgs](https://www.linkedin.com/in/guilhermefgs/) on LinkedIn
+---
+
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermefgs&theme=nord_dark)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermefgs&theme=nord_dark) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guilhermefgs&theme=nord_dark)
 
 <!--
 **aateg/aateg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
