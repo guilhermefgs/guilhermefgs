@@ -1,5 +1,5 @@
 
-Hi there, I'm Guilherme
+# Hi there 👋!
 
 - 🔭 I’m currently working on a card game engine, that aims to be the equivalent of Stockfish for a german card game called Skat.
 - 🌱 In the meanwhile I’m learning Rust programming
