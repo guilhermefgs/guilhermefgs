@@ -2,7 +2,7 @@
 # Hi there 👋!
 
 - 🔭 I’m currently working on a card game engine, that aims to be the equivalent of Stockfish for a german card game called Skat.
-- 🌱 In the meanwhile I’m learning Rust programming
+- 🌱 In the meanwhile I’m exploring programming languages such as Rust and Elixir.
 - 📫 How to reach me: [guilhermefgs@proton.me](mailto:guilhermefgs@proton.me) or [guilhermefgs](https://www.linkedin.com/in/guilhermefgs/) on LinkedIn
 ---
 
