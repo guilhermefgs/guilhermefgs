@@ -8,7 +8,7 @@
 
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermefgs&theme=graywhite)
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermefgs&theme=nord_dark) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermefgs&theme=graywhite)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermefgs&theme=graywhite) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermefgs&theme=graywhite)
 
 <!--
 **aateg/aateg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
