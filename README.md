@@ -1,14 +1,14 @@
 
 # Hi there 👋!
 
-- 🔭 I’m currently working on a card game engine, that aims to be the equivalent of Stockfish for a german card game called Skat.
+- 🔭 I’m currently working on a card game engine, that aims to be the equivalent of Stockfish for a German card game called Skat.
 - 🌱 In the meanwhile I’m exploring programming languages such as Rust and Elixir.
 - 📫 How to reach me: [guilhermefgs@proton.me](mailto:guilhermefgs@proton.me) or [guilhermefgs](https://www.linkedin.com/in/guilhermefgs/) on LinkedIn
 ---
 
-![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermefgs&theme=nord_dark)
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermefgs&theme=graywhite)
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermefgs&theme=nord_dark) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guilhermefgs&theme=nord_dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermefgs&theme=nord_dark) ![Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermefgs&theme=graywhite)
 
 <!--
 **aateg/aateg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
